@@ -55,7 +55,7 @@ Follow the steps below to set up and run the project locally.
 
 ```
 
-git clone https://github.com/CharanRachakonda/InterviewPro.git
+git clone https://github.com/GaddamRajasri/InterviewPro.git
 cd InterviewPro
 
 ```
